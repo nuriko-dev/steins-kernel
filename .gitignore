@@ -1,0 +1,6 @@
+# Generated Object Files
+*.o
+
+# Build Outputs
+build/*.iso
+build/*.bin
